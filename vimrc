@@ -98,7 +98,6 @@ set laststatus=2
 set foldmethod=marker
 set number
 set nocompatible
-set nottybuiltin term=$TERM
 set wildmode=longest:full
 set wildmenu
 set formatprg=par-format\ -w80

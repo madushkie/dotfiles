@@ -105,8 +105,6 @@ set formatprg=par-format\ -w80
 set statusline=%F%m%r%h%w\ [TYPE=%Y]\ [ASCII=\%03.3b]\ [HEX=\%02.2B]\ [POS=%04l,%04v][%p%%]\ [LEN=%L]
 set showtabline=2
 "set hidden
-set history=1000         " remember more commands and search history
-set undolevels=1000      " use many muchos levels of undo
 set backspace=indent,eol,start
 set whichwrap+=<,>,[,]
 " No backup files
